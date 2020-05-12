@@ -1,4 +1,5 @@
 # Azure DevOps HOL
+# Github 실습 20200512  --- 그래도 흥칫뿡
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
